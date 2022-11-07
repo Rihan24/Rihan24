@@ -3,8 +3,7 @@
 Optimal Control, Stochastic systems and processes, Feedback Control, and Learning based Control, with possible applications in Robotics and Spacecraft Guidance and navigation.<br>I am currently working on novel Numerical methods for solving constrained Optimal Control problems,  and structure-preserving models for optimization on non-flat manifolds.<br><br>
 ## Previous projects : 
 <br>1.Controls and motion planning for Autonomous Quadcopters - developing algorithms for robust trajectory tracking<br>2. Terrain-Relative Navigation : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
-### My passion : 
-Music (with tastes in  Classical and your standard GenZ playlist), Gaming, Anime, Basketball<br><br>Reach me out for any interesting tech-related discussions or Collaborations.<br>
+<br><br>Reach me out for any interesting tech-related discussions or Collaborations.<br>
 My email : dslvaaron24@gmail.com<br><br><br><br><br>
 
 
