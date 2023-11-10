@@ -4,13 +4,13 @@ Optimal Control under contraints, Learning theory, Robust control, Safe autonomy
 I am interested in designing <b>tractable</b> and provably correct algorithms with rigorous <b>performance guarantees</b> <br><br>
 ## Projects : 
 I am currenlty working on : <br>
-1. Adaptive mesh refinement algorithm for constrained optimal control problems with uniform convergence guarantees of underlying quasi-interpolation based approximation engine, as part of my BTech thesis at IIT Bombay. <br>
+1. Adaptive mesh refinement algorithm for constrained optimal control problems with uniform convergence guarantees, as part of my Bachelor thesis at [IIT Bombay](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html). <br>
 2. Reinforcement Learning assised MPC framework for safe and practical learning with stabilty guarantees in process control setting - at [McMaster University](https://www.eng.mcmaster.ca/faculty/prashant-mhaskar/) <br><Br>
 
 Previous work : 
 <br>
-1.Controls and motion planning for Autonomous Quadcopters - developing algorithms for robust trajectory tracking <br>
-2. Terrain-Relative Navigation(https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
+1.[Controls and motion planning for Autonomous Quadcopters](https://github.com/Rihan24/Control_trajectory_tracking.git)  - developing algorithms for robust trajectory tracking <br>
+2. [Terrain-Relative Navigation](https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
 <br><br>
 My email : dslvaaron24@gmail.com<br><br><br><br><br>
 
