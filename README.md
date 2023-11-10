@@ -4,8 +4,8 @@ Optimal Control under contraints, Learning theory, Robust control, Safe autonomy
 I am interested in designing <b>tractable</b> and provably correct algorithms with rigorous <b>performance guarantees</b> <br><br>
 ## Previous projects : 
 <br>
-1.[Controls and motion planning](https://github.com/Rihan24/Control_trajectory_tracking.git) for Autonomous Quadcopters - developing algorithms for robust trajectory tracking<br>
-2. [Terrain-Relative Navigation](https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
+1.Controls and motion planning for Autonomous Quadcopters [repo](https://github.com/Rihan24/Control_trajectory_tracking.git) - developing algorithms for robust trajectory tracking<br>
+2. Terrain-Relative Navigation(https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
 <br><br>Reach me out for any interesting tech-related discussions or Collaborations.<br>
 My email : dslvaaron24@gmail.com<br><br><br><br><br>
 
