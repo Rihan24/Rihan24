@@ -10,7 +10,7 @@ I am currenlty working on : <br>
 Previous research work : 
 <br>
 1.[Controls and motion planning for Autonomous Quadcopters](https://github.com/Rihan24/Control_trajectory_tracking.git)  - developing algorithms for robust trajectory tracking <br>
-2. [Terrain-Relative Navigation](https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
+2. [Terrain relative optical navigation for lunar descent](https://github.com/Rihan24/Terrain_relative_navigation.git) : developing autonomous visual-based navigation of lander and obstacle avoidance technology for planetary descent<br><br>
 
 Documentation and scribbles of learning [here](https://dslvaaron24.gitbook.io/research-projects/)
 <br><br>
