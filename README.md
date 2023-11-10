@@ -1,4 +1,4 @@
-c# 💫 About Me:
+💫 About Me:
 ## My broad area of reserach interest are: 
 Optimal Control under contraints, Learning theory, Robust control, Safe autonomy, Numerical optimization, Stochastic Processes. <br>
 I am interested in designing <b>tractable</b> and provably correct algorithms with rigorous <b>performance guarantees</b> <br><br>
